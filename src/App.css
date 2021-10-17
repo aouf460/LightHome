@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background: linear-gradient(90deg, #171719 0%, rgba(38, 14, 0, 0.84) 35.94%, #262628 99.48%);
+  font-family: 'Spartan', sans-serif;
+}

@@ -1,0 +1,112 @@
+.nav{
+    color: white;
+    font-family: Spartan;
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 15px;
+    letter-spacing: 0em;
+    text-align: left;
+    display: flex;
+    padding-top: 3em;
+   
+   }
+   .logo{
+    font-family: Spartan;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #DECB92;
+    padding-left: 3em;
+    }
+    li{
+        list-style: none;
+    }
+    a{
+        text-decoration: none;
+        color: white;
+    }
+   .pdf{
+       padding-left: 4em;
+       padding-top: 0.6em;
+   }
+   .hg{
+       font-weight: 500;
+       font-size: 18px;
+       font-style: normal;
+        line-height: 15px;
+       letter-spacing: 0em;
+       text-align: left;
+       display: flex;
+       margin-top: 0.6em;
+       padding-left: 36em;
+   }
+   .gal{
+       padding-left: 5em;    
+   }
+   .icons{
+       padding-left: 6em;
+       padding-top: .4em;
+       display: flex;
+    }
+    .icon1{
+     padding-right: 2em;
+     }
+
+     .footer{
+         padding-top: 41em;
+         padding-left: 5.5em;
+         display: flex;
+     }
+     .footleft{
+        padding-left: 3em;
+        padding-top: 0.4em;
+    }
+    .footright{
+        padding-left: 72em;
+        display: flex;
+        padding-top: 0.3em;
+    }
+    .mainimage{
+        position: absolute;
+        top: -9%;
+        right: 35%;
+    }
+    .lamparrow{
+        position: absolute;
+        top: 37.5%;
+        right: 56.5%;
+        z-index: 11;
+        }
+.arrows{
+    position: absolute;
+    top: 47%;
+    right: 16%;
+}
+.cool{
+    position: absolute;
+    top: 35%;
+    right: 62%;
+    font-weight: 500;
+    font-size: 1.5em;
+}
+.show{
+    transform: rotate(-90deg);
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    font-size: 1.7em;
+    letter-spacing: 15%;
+
+}
+.halo{
+    position: absolute;
+    top: 90%;
+    right: 14%;
+    color: white;
+    font-size: 1.1em;
+    font-weight: 500;
+}
